@@ -16,13 +16,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 # Provided Mock-up Dashboard
 
+![mock up dashboard_atliq grands](https://github.com/Sagarparkhe/AtliQ-Hospitality-Analysis---PowerBI/assets/171353864/6fdc67cc-ce32-47f0-ac99-091389416612)
 
 # Data Model
 
+![Data Modeling_page-0001](https://github.com/Sagarparkhe/AtliQ-Hospitality-Analysis---PowerBI/assets/171353864/e85fc714-5a8e-431f-b77f-0b26e7dcffe0)
 
 # Dashboard
 
+![Hospatility Domain_page-0001](https://github.com/Sagarparkhe/AtliQ-Hospitality-Analysis---PowerBI/assets/171353864/4498d406-b913-4203-b26f-4e4dd3d1f04f)
 
+![Hospatility Domain_page-0002](https://github.com/Sagarparkhe/AtliQ-Hospitality-Analysis---PowerBI/assets/171353864/fa204774-5761-4caf-8f96-8c877f71d89d)
 
 # Some Important insights from the Dashboard
 
